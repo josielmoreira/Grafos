@@ -39,7 +39,6 @@ bool BellmanFord(int s){
 int main(){
   int t, i;
 
-  //freopen("input.txt", "r", stdin);
   scanf("%d", &t);
   while(t--){
     scanf("%d %d", &n, &m);
